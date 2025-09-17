@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BatchKafkaProducerAppApplication {
 
 	public static void main(String[] args) {
-		//comment added in feature branch
 		SpringApplication.run(BatchKafkaProducerAppApplication.class, args);
 	}
 
